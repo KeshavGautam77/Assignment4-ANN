@@ -63,7 +63,7 @@ Learning Rate: 'constant'
 Solver: 'adam'
 These optimized parameters were used to train the final model, resulting in improved performance.
 
-#6. Model Evaluation:
+# 6. Model Evaluation:
 The final model achieved an accuracy of 97% on the test set.
 Precision for benign cases: 0.97
 Precision for malignant cases: 0.98
