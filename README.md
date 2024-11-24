@@ -109,3 +109,9 @@ requirements.txt Link
 
 # Conclusion:
 This project demonstrates the application of machine learning, specifically Artificial Neural Networks (ANNs), in the classification of breast cancer tumors. By performing thorough data preprocessing, feature selection, and model tuning, we were able to develop a robust model that achieves high accuracy in distinguishing between benign and malignant tumors. The model is ready for deployment in real-world applications and can assist healthcare professionals in diagnosing breast cancer with high reliability.
+
+# Output
+![image](https://github.com/user-attachments/assets/91e6f0fd-fb79-4719-9182-4b8cafb3bb56)
+![image](https://github.com/user-attachments/assets/eaa2e4a8-ec8e-4adc-a733-bf6ffa6d6c34)
+
+
