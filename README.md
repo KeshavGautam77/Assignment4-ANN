@@ -94,17 +94,17 @@ Notebook Link
 Contains saved model files (mlp_model_imp.pkl) and the scaler file (scaler.pkl).
 
 
-#streamlit.py:
+# streamlit.py:
 The main file for the Streamlit app that loads the model and scaler and takes input from the user for tumor classification.
 streamlit.py
 
-#readme.md:
+# readme.md:
 This file explains the dataset, methodology, results, and how to run the project.
 README Link
 
-#requirements.txt:
+# requirements.txt:
 
-#Lists the Python libraries needed to run the project.
+# Lists the Python libraries needed to run the project.
 requirements.txt Link
 
 # Conclusion:
